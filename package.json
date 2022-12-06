@@ -3,7 +3,7 @@
 	"version": "4.1.2",
 	"description": "A pure typescript module to create a gif in the easiest way possible.",
 	"main": "build/index.js",
-	"type": "module",
+	"type": "commonjs",
 	"scripts": {
 		"test": "pnpm run build && node test/index.js",
 		"build": "npx tsc",
