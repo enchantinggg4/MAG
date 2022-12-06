@@ -1,4 +1,6 @@
-# MAG (make-a-gif)
+# MAG (make-a-gif-commonjs) but commonjs
+
+This is a copy of original repository and module, but built to commonjs
 
 A pure typescript module to make easier a gif
 
